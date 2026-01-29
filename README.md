@@ -19,7 +19,7 @@ Backend SWE roles in NYC or remote — open to opportunities where I can build s
 - Real-time features (WebSockets/Socket.io), CI/CD (GitHub Actions), Docker, AWS
 
 ### 👨‍💻 All of My Projects Are Available At
-https://www.johnsuli.com (live demos + details)
+[Portfolio](https://www.johnsuli.com) (live demos + details)
 
 **Featured Highlights**:
 - **Homelumina** (Award-winning real-estate analytics): Processed 3M+ rows in PostgreSQL; reduced queries from minutes to ~400ms. [GitHub](https://github.com/FizzWinPie/Homelumina) | [Live](https://homelumina.online)
