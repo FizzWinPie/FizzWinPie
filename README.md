@@ -22,7 +22,7 @@ Backend SWE roles in NYC or remote — open to opportunities where I can build s
 https://www.johnsuli.com (live demos + details)
 
 **Featured Highlights**:
-- **Homelumina** (Award-winning real-estate analytics): Processed 3M+ rows in PostgreSQL; reduced queries from minutes to ~400ms. [GitHub](https://github.com/FizzWinPie/Homelumina) | [Live](https://your-homelumina-link)
+- **Homelumina** (Award-winning real-estate analytics): Processed 3M+ rows in PostgreSQL; reduced queries from minutes to ~400ms. [GitHub](https://github.com/FizzWinPie/Homelumina) | [Live](https://homelumina.online)
 - **PlugPorch / SPARC** (P2P EV charging app): Backend with Node/Express, MongoDB, real-time messaging (Socket.io), Stripe payments. [GitHub](https://github.com/FizzWinPie/sparc)
 - **TCP Concurrency Suite**: Single/multi-threaded + event-driven (select) servers in C — 100+ concurrent clients. [GitHub](https://github.com/FizzWinPie/TCP-README)
 
